@@ -1,0 +1,30 @@
+Gioi thieu chu de cua trang web
+gth phan log in --> username & password
+neu khop thi dc phep log in
+--> gth router
+vao database lay thong tin --> kiem tra xem info co khop k
+neu k khop se gui ma 401
+
+GTH HOMEPAGE
+
+GTH ABOUT (fancy hoa len)
+giup cho cac ban trai nghiem bla blabla 
+nhan van
+
+HISTORY
+hieu ung so le blablabla
+thong tin trinh bay ro rang
+
+PROFILE
+avar username dob expo
+neu muon update thong tin co the vao edit
+thong tin se dc update va gui tra ve he thong
+
+CONTACT US (fancy hoa len)
+bia ra lol
+lien he o day blablabla
+
+--> CHUYEN HUONG PHAN TICH VE DOCUMENTATION
+tu dts chuyen sang dts schema
+gth cac component, primary key, cac mqh one to many
+
